@@ -4,7 +4,52 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa902d19-0529-417c-b6e5-c5e2d806ea6a" name="Changes" comment="Overclocked" />
+    <list default="true" id="aa902d19-0529-417c-b6e5-c5e2d806ea6a" name="Changes" comment="initial commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopmeCommon/target/classes/com/shopme/common/Constants.class" beforeDir="false" afterPath="$PROJECT_DIR$/ShopmeCommon/target/classes/com/shopme/common/Constants.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopmeCommon/target/classes/com/shopme/common/entity/Address.class" beforeDir="false" afterPath="$PROJECT_DIR$/ShopmeCommon/target/classes/com/shopme/common/entity/Address.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopmeCommon/target/classes/com/shopme/common/entity/AuthenticationType.class" beforeDir="false" afterPath="$PROJECT_DIR$/ShopmeCommon/target/classes/com/shopme/common/entity/AuthenticationType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopmeCommon/target/classes/com/shopme/common/entity/Brand.class" beforeDir="false" afterPath="$PROJECT_DIR$/ShopmeCommon/target/classes/com/shopme/common/entity/Brand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopmeCommon/target/classes/com/shopme/common/entity/CartItem.class" beforeDir="false" afterPath="$PROJECT_DIR$/ShopmeCommon/target/classes/com/shopme/common/entity/CartItem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopmeCommon/target/classes/com/shopme/common/entity/Category.class" beforeDir="false" afterPath="$PROJECT_DIR$/ShopmeCommon/target/classes/com/shopme/common/entity/Category.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopmeCommon/target/classes/com/shopme/common/entity/Country.class" beforeDir="false" afterPath="$PROJECT_DIR$/ShopmeCommon/target/classes/com/shopme/common/entity/Country.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopmeCommon/target/classes/com/shopme/common/entity/Currency.class" beforeDir="false" afterPath="$PROJECT_DIR$/ShopmeCommon/target/classes/com/shopme/common/entity/Currency.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopmeCommon/target/classes/com/shopme/common/entity/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/ShopmeCommon/target/classes/com/shopme/common/entity/Customer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopmeCommon/target/classes/com/shopme/common/entity/Role.class" beforeDir="false" afterPath="$PROJECT_DIR$/ShopmeCommon/target/classes/com/shopme/common/entity/Role.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopmeCommon/target/classes/com/shopme/common/entity/ShippingRate.class" beforeDir="false" afterPath="$PROJECT_DIR$/ShopmeCommon/target/classes/com/shopme/common/entity/ShippingRate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopmeCommon/target/classes/com/shopme/common/entity/State.class" beforeDir="false" afterPath="$PROJECT_DIR$/ShopmeCommon/target/classes/com/shopme/common/entity/State.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopmeCommon/target/classes/com/shopme/common/entity/StateDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/ShopmeCommon/target/classes/com/shopme/common/entity/StateDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopmeCommon/target/classes/com/shopme/common/entity/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/ShopmeCommon/target/classes/com/shopme/common/entity/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopmeCommon/target/classes/com/shopme/common/entity/order/Order.class" beforeDir="false" afterPath="$PROJECT_DIR$/ShopmeCommon/target/classes/com/shopme/common/entity/order/Order.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopmeCommon/target/classes/com/shopme/common/entity/order/OrderDetail.class" beforeDir="false" afterPath="$PROJECT_DIR$/ShopmeCommon/target/classes/com/shopme/common/entity/order/OrderDetail.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopmeCommon/target/classes/com/shopme/common/entity/order/OrderStatus$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/ShopmeCommon/target/classes/com/shopme/common/entity/order/OrderStatus$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopmeCommon/target/classes/com/shopme/common/entity/order/OrderStatus$10.class" beforeDir="false" afterPath="$PROJECT_DIR$/ShopmeCommon/target/classes/com/shopme/common/entity/order/OrderStatus$10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopmeCommon/target/classes/com/shopme/common/entity/order/OrderStatus$11.class" beforeDir="false" afterPath="$PROJECT_DIR$/ShopmeCommon/target/classes/com/shopme/common/entity/order/OrderStatus$11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopmeCommon/target/classes/com/shopme/common/entity/order/OrderStatus$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/ShopmeCommon/target/classes/com/shopme/common/entity/order/OrderStatus$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopmeCommon/target/classes/com/shopme/common/entity/order/OrderStatus$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/ShopmeCommon/target/classes/com/shopme/common/entity/order/OrderStatus$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopmeCommon/target/classes/com/shopme/common/entity/order/OrderStatus$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/ShopmeCommon/target/classes/com/shopme/common/entity/order/OrderStatus$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopmeCommon/target/classes/com/shopme/common/entity/order/OrderStatus$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/ShopmeCommon/target/classes/com/shopme/common/entity/order/OrderStatus$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopmeCommon/target/classes/com/shopme/common/entity/order/OrderStatus$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/ShopmeCommon/target/classes/com/shopme/common/entity/order/OrderStatus$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopmeCommon/target/classes/com/shopme/common/entity/order/OrderStatus$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/ShopmeCommon/target/classes/com/shopme/common/entity/order/OrderStatus$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopmeCommon/target/classes/com/shopme/common/entity/order/OrderStatus$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/ShopmeCommon/target/classes/com/shopme/common/entity/order/OrderStatus$8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopmeCommon/target/classes/com/shopme/common/entity/order/OrderStatus$9.class" beforeDir="false" afterPath="$PROJECT_DIR$/ShopmeCommon/target/classes/com/shopme/common/entity/order/OrderStatus$9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopmeCommon/target/classes/com/shopme/common/entity/order/OrderStatus.class" beforeDir="false" afterPath="$PROJECT_DIR$/ShopmeCommon/target/classes/com/shopme/common/entity/order/OrderStatus.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopmeCommon/target/classes/com/shopme/common/entity/order/OrderTrack.class" beforeDir="false" afterPath="$PROJECT_DIR$/ShopmeCommon/target/classes/com/shopme/common/entity/order/OrderTrack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopmeCommon/target/classes/com/shopme/common/entity/order/PaymentMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/ShopmeCommon/target/classes/com/shopme/common/entity/order/PaymentMethod.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopmeCommon/target/classes/com/shopme/common/entity/product/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/ShopmeCommon/target/classes/com/shopme/common/entity/product/Product.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopmeCommon/target/classes/com/shopme/common/entity/product/ProductDetail.class" beforeDir="false" afterPath="$PROJECT_DIR$/ShopmeCommon/target/classes/com/shopme/common/entity/product/ProductDetail.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopmeCommon/target/classes/com/shopme/common/entity/product/ProductImage.class" beforeDir="false" afterPath="$PROJECT_DIR$/ShopmeCommon/target/classes/com/shopme/common/entity/product/ProductImage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopmeCommon/target/classes/com/shopme/common/entity/setting/Setting.class" beforeDir="false" afterPath="$PROJECT_DIR$/ShopmeCommon/target/classes/com/shopme/common/entity/setting/Setting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopmeCommon/target/classes/com/shopme/common/entity/setting/SettingBag.class" beforeDir="false" afterPath="$PROJECT_DIR$/ShopmeCommon/target/classes/com/shopme/common/entity/setting/SettingBag.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopmeCommon/target/classes/com/shopme/common/entity/setting/SettingCategory.class" beforeDir="false" afterPath="$PROJECT_DIR$/ShopmeCommon/target/classes/com/shopme/common/entity/setting/SettingCategory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopmeCommon/target/classes/com/shopme/common/exception/CategoryNotFoundException.class" beforeDir="false" afterPath="$PROJECT_DIR$/ShopmeCommon/target/classes/com/shopme/common/exception/CategoryNotFoundException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopmeCommon/target/classes/com/shopme/common/exception/CustomerNotFoundException.class" beforeDir="false" afterPath="$PROJECT_DIR$/ShopmeCommon/target/classes/com/shopme/common/exception/CustomerNotFoundException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopmeCommon/target/classes/com/shopme/common/exception/OrderNotFoundException.class" beforeDir="false" afterPath="$PROJECT_DIR$/ShopmeCommon/target/classes/com/shopme/common/exception/OrderNotFoundException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopmeCommon/target/classes/com/shopme/common/exception/ProductNotFoundException.class" beforeDir="false" afterPath="$PROJECT_DIR$/ShopmeCommon/target/classes/com/shopme/common/exception/ProductNotFoundException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopmeWebParent/ShopmeBackend/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ShopmeWebParent/ShopmeBackend/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopmeWebParent/ShopmeFrontEnd/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ShopmeWebParent/ShopmeFrontEnd/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopmeWebParent/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ShopmeWebParent/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -151,7 +196,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.ShopmeBackendApplication">
+  <component name="RunManager" selected="Spring Boot.ShopmeWebParentApplication">
     <configuration name="Constants" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.shopme.common.Constants" />
       <module name="ShopmeCommon" />
@@ -365,7 +410,7 @@
       <workItem from="1702494960897" duration="6624000" />
       <workItem from="1702722434418" duration="3270000" />
       <workItem from="1702736238211" duration="1051000" />
-      <workItem from="1702737309176" duration="302000" />
+      <workItem from="1702737309176" duration="7832000" />
     </task>
     <task id="LOCAL-00001" summary="Overclocked">
       <option name="closed" value="true" />
@@ -383,11 +428,32 @@
       <option name="project" value="LOCAL" />
       <updated>1701024084908</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1702737705664</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1702737705664</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-core" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.security:spring-security-core" />
+    <option featureType="dependencySupport" implementationName="executable:docker" />
+    <option featureType="dependencySupport" implementationName="java:software.amazon.awssdk:s3" />
+    <option featureType="dependencySupport" implementationName="java:jakarta.persistence:jakarta.persistence-api" />
+    <option featureType="dependencySupport" implementationName="java:software.amazon.awssdk:sdk-core" />
+    <option featureType="dependencySupport" implementationName="executable:kubectl" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.data:spring-data-commons" />
+    <option featureType="dependencySupport" implementationName="java:org.thymeleaf:thymeleaf" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.boot:spring-boot" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-webmvc" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -423,7 +489,8 @@
       <path value="$PROJECT_DIR$/ShopmeWebParent/ShopmeFrontEnd" />
     </ignored-roots>
     <MESSAGE value="Overclocked" />
-    <option name="LAST_COMMIT_MESSAGE" value="Overclocked" />
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
