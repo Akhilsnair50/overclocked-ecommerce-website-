@@ -4,8 +4,9 @@ public class Constants {
     public static final String S3_BASE_URI;
 
     static {
-        String bucketName = System.getenv("AWS_BUCKET_NAME");
-        String region = System.getenv("AWS_REGION");
+//        String bucketName = System.getenv("AWS_BUCKET_NAME");
+        String bucketName = "overclocked-files";
+        String region = "ap-south-1";
         String pattern = "https://%s.s3.%s.amazonaws.com";
 
         String uri = String.format(pattern,bucketName,region);

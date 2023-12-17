@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="aa902d19-0529-417c-b6e5-c5e2d806ea6a" name="Changes" comment="second commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopmeCommon/src/main/java/com/shopme/common/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/ShopmeCommon/src/main/java/com/shopme/common/Constants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopmeCommon/target/classes/com/shopme/common/Constants.class" beforeDir="false" afterPath="$PROJECT_DIR$/ShopmeCommon/target/classes/com/shopme/common/Constants.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -153,7 +155,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.ShopmeFrontEndApplication">
+  <component name="RunManager" selected="Spring Boot.ShopmeBackendApplication">
     <configuration name="Constants" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.shopme.common.Constants" />
       <module name="ShopmeCommon" />
@@ -367,7 +369,7 @@
       <workItem from="1702494960897" duration="6624000" />
       <workItem from="1702722434418" duration="3270000" />
       <workItem from="1702736238211" duration="1051000" />
-      <workItem from="1702737309176" duration="9355000" />
+      <workItem from="1702737309176" duration="15190000" />
     </task>
     <task id="LOCAL-00001" summary="Overclocked">
       <option name="closed" value="true" />
@@ -409,7 +411,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702750046039</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="second commit">
+      <option name="closed" value="true" />
+      <created>1702762586086</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1702762586086</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
